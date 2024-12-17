@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JhimmyLiboryo
+- 👋 Hi, I’m @JhimmyLibório
 - 👀 I’m interested in Java, Python, Javascript
 - 🌱 I’m currently learning Python, Javascript
 - 📫 How to reach me: jhimmy@icomp.ufam.edu.br
